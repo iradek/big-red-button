@@ -28,6 +28,6 @@ TYPEAUSERNAME&adminEmail=YOUR@EMAILGOESHERE.COM&adminPassword=TYPEASITEPASSWORD
 5b. Add this request header to the post (the spaces are needed):
 Authorization: Bearer PASTETHETOKENYOUGENERATEDHERE
  
-The API itself is documented here: SoNET Web Engine API
+The API itself is documented here: http://lpk7.com/api/help
 
 Congrats! you just made a website, now visit LPK7.com and sort by " Recently Created" to see it and login. Now that you see how easy the API makes things, go ahead and make your own applications. Your imagination is the limit.
