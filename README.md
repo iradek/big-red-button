@@ -33,7 +33,7 @@ The API itself is documented here: http://lpk7.com/api/help
 ## Congrats! 
 You just made a complete website, now visit LPK7.com and sort by "Recently Created" to see it and login.
 
-Now that you see how easy the API makes things like complete sites, go ahead and make your own applications using any of the functionality available. You do not have to generate an entire site, you can simply use the functions you need to very quickly create usefull applications that leverage the power of your individual SoNET Web Engine install. 
+Now that you see how easy the API makes things like complete sites, go ahead and make your own applications using any of the functionality available. You do not have to generate an entire site, you can simply use the functions you need to very quickly create useful applications that leverage the power of your individual SoNET Web Engine install. 
 
 Make image apps, with voting, comments, ratings and more.
 Make video apps, surveys, custom form apps, blogging apps and much more. Your imagination is the limit.
