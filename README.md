@@ -19,7 +19,7 @@ http://www.lpk7.com/mvc/oauth?client_id=YOURCLIENTID&scope=Api.Access&redirect_u
 4. Copy the token you generated from the returned string.
 NOTE: look for this in the address bar " #token_type=bearer&access_token=THISISTHETOKENYOUGENERATED "
 
-API fast start - Use your browsers Developer Tools (POST).
+## API fast start - Use your browsers Developer Tools (POST).
 
 5a. Use this HTTP POST to generate your first site:
 http://www.lpk7.com/api/SiteObjects/CreateSite?siteName=TYPEANAME&templateName=1024px&isEntireSitePublic=true&requiresRegistration=false&adminUserName=
